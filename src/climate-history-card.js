@@ -1,4 +1,4 @@
-/* Climate History Card v0.1.0 | Apache-2.0 */
+/* Climate History Card v0.1.1 | Apache-2.0 */
 
 const DAY_MS = 86_400_000;
 const DEFAULT_COLORS = ["#3B82F6", "#F97316", "#8B5CF6", "#14B8A6", "#EC4899", "#EAB308"];

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Climate History Card</title>
+  <desc id="desc">A thermometer beside continuous and stepped climate-history lines.</desc>
+  <rect width="256" height="256" rx="52" fill="#15181d"/>
+  <path d="M76 54a25 25 0 0 1 25 25v81a39 39 0 1 1-50 0V79a25 25 0 0 1 25-25Z" fill="#20252d" stroke="#f3f4f6" stroke-width="10"/>
+  <path d="M76 89v91" stroke="#3b82f6" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="76" cy="187" r="22" fill="#3b82f6"/>
+  <path d="M124 149c18-26 29-15 43-34s25-6 41-31" fill="none" stroke="#f97316" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M124 180h29v-28h29v-27h30" fill="none" stroke="#a855f7" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

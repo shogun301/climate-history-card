@@ -1,6 +1,6 @@
 {
   "name": "climate-history-card",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A provider-neutral Home Assistant climate history card with continuous measurements, stepped setpoints, active-period shading, and honest command attribution.",
   "type": "module",
   "private": true,
