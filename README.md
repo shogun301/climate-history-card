@@ -4,11 +4,15 @@
 
 # Climate History Card
 
-A provider-neutral Home Assistant card for understanding climate behavior over time. It keeps measured values continuous, renders commanded setpoints as steps, and shades equipment-active periods only beneath the measured-temperature curve for the corresponding zone.
+A Home Assistant card that plots measured temperature, stepped setpoints,
+equipment activity, outside conditions, and optional command records on one
+timeline.
 
 ![Synthetic two-zone climate history example](docs/synthetic-climate-history.svg)
 
-The image and every entity in this repository are synthetic. The card reads only the Home Assistant entities you configure; it has no external network dependency, analytics, or telemetry.
+The preview and example entity IDs use fictional data. The card reads only the
+Home Assistant entities you configure; it has no external network dependency,
+analytics, or telemetry.
 
 The project logo is original artwork. Its editable SVG source and 256/512-pixel
 PNG exports are included under `assets/`.

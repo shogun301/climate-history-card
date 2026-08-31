@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented here. This project follows Semantic Versioning.
 
+## 0.1.2 - 2026-08-31
+
+- Replaced implementation-oriented descriptions with direct explanations of
+  the plotted data and recorded or unattributed setpoint changes.
+
 ## 0.1.1 - 2026-08-31
 
 - Added an original Climate History logo with SVG source and 256/512-pixel PNG exports.
